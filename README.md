@@ -5,3 +5,5 @@ I created the entire website design in Figma based on the product idea we develo
 After my teammates and I finished developing our assigned sections, I went in and added animations across the whole page to make the site feel polished and dynamic, and to lift out project above others. I also jumped in throughout the project to help my teammates with development challenges and offer advice when needed.
 
 Honestly… I lowkey became the project manager on this one, and I’m proud of that. I kept the design consistent, the code flowing, and made sure everything aligned with our vision.
+
+Figma design link : https://www.figma.com/design/56barmtyhy0FOQP4lRm7zn/Annie-Spratt--Project?node-id=0-1&m=dev
